@@ -1,9 +1,10 @@
-[Adblock Viet Nam Plus]
+[Adblock Plus 2.0]
 ! Version: 1.0
-! Title: ABPVN+
-! ABPVN List and EasyList combination subscription
-! Copyright: ABPVN+
-! ---------- Generic Blocking Rules ----------
+! Title: Adblock Việt Nam +
+! Last modified: 24/07/2018
+! Expires: 7 days (update frequency)
+! Homepage: https://haopro.tk
+!
 ramleague.net##.errorOverlay
 ramleague.net###exposeMask
 ramleague.net##div[style="background: url(styles/ramleaguev1/images/NoAds.png);margin: 8px;height: 90px !important;width: 106px !important;display: inline-block !important;"]
