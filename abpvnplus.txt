@@ -13,3 +13,8 @@ phimmoi.net##.block-wrapper.page-single.block-note
 facebook.com###u_0_1z
 facebook.com##._5hn6
 iosgods.com###iGSupport
+downmienphi.com###fanbox
+downmienphi.com###fan-exit
+downmienphi.com###fanback
+downmienphi.com##.errorOverlay
+###exposeMask
