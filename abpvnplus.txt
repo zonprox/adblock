@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 1.0
 ! Title: Adblock Việt Nam +
-! Last modified: 31/08/2018
+! Last modified: 07/09/2018
 ! Expires: 7 days (update frequency)
 ! Homepage: https://www.haopro.tk/
 !
@@ -10,9 +10,9 @@
 ###fanback
 ##.errorOverlay
 ###exposeMask
+###iGSupport
 ramleague.net##div[style="background: url(styles/ramleaguev1/images/NoAds.png);margin: 8px;height: 90px !important;width: 106px !important;display: inline-block !important;"]
 ramleague.net##div[style="background: url(styles/ramleaguev1/images/NoAds.png);margin: 8px;  padding-right: 5px;float: left;height: 90px !important;width: 720px !important;"]
 phimmoi.net##.block-wrapper.page-single.block-note
 facebook.com###u_0_1z
 facebook.com##._5hn6
-iosgods.com###iGSupport
