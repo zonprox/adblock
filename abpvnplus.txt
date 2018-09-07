@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Version: 1.0
-! Title: Adblock Việt Nam +
+! Title: ABPVN Advanced
 ! Last modified: 07/09/2018
 ! Expires: 7 days (update frequency)
 ! Homepage: https://www.haopro.tk/
