@@ -16,3 +16,8 @@ ramleague.net##div[style="background: url(styles/ramleaguev1/images/NoAds.png);m
 phimmoi.net##.block-wrapper.page-single.block-note
 facebook.com###u_0_1z
 facebook.com##._5hn6
+downmienphi.com###fan-exit
+downmienphi.com###fanbox
+downmienphi.com###fanback
+downmienphi.com##.errorOverlay
+downmienphi.com###exposeMask
