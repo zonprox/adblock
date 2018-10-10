@@ -14,9 +14,6 @@
 ##.dialog-inner
 ##.smokebg
 ##.smoke-base.smoke-visible.smoke-alert
-###aswift_1
-###aswift_1_anchor
-###aswift_1_expand
 ##.adsbygoogle
 ramleague.net##div[style="background: url(styles/ramleaguev1/images/NoAds.png);margin: 8px;height: 90px !important;width: 106px !important;display: inline-block !important;"]
 ramleague.net##div[style="background: url(styles/ramleaguev1/images/NoAds.png);margin: 8px;  padding-right: 5px;float: left;height: 90px !important;width: 720px !important;"]
@@ -28,3 +25,8 @@ downmienphi.com###fanbox
 downmienphi.com###fanback
 downmienphi.com##.errorOverlay
 downmienphi.com###exposeMask
+downmienphi.net###container3
+win10.vn###aswift_1
+win10.vn###aswift_1_anchor
+win10.vn###aswift_1_expand
+win10.vn##.adsbygoogle
