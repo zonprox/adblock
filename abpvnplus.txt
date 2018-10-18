@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 1.0.4
+! Version: 1.0.5
 ! Title: ABPVN Advanced
-! Last modified: 10/10/2018
+! Last modified: 18/10/2018
 ! Expires: 7 days (update frequency)
 ! Homepage: https://www.haopro.tk/
 !
@@ -15,6 +15,7 @@
 ##.smokebg
 ##.smoke-base.smoke-visible.smoke-alert
 ##.adsbygoogle
+###div-advert
 ramleague.net##div[style="background: url(styles/ramleaguev1/images/NoAds.png);margin: 8px;height: 90px !important;width: 106px !important;display: inline-block !important;"]
 ramleague.net##div[style="background: url(styles/ramleaguev1/images/NoAds.png);margin: 8px;  padding-right: 5px;float: left;height: 90px !important;width: 720px !important;"]
 phimmoi.net##.block-wrapper.page-single.block-note
