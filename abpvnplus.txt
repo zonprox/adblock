@@ -16,9 +16,10 @@
 ##.smoke-base.smoke-visible.smoke-alert
 ##.adsbygoogle
 ###div-advert
-ramleague.net##div[style="background: url(styles/ramleaguev1/images/NoAds.png);margin: 8px;height: 90px !important;width: 106px !important;display: inline-block !important;"]
-ramleague.net##div[style="background: url(styles/ramleaguev1/images/NoAds.png);margin: 8px;  padding-right: 5px;float: left;height: 90px !important;width: 720px !important;"]
-phimmoi.net##.block-wrapper.page-single.block-note
+###bar_container_r
+###bar_top_r
+###float_content_right
+###hide_float_right
 facebook.com###u_0_1z
 facebook.com##._5hn6
 downmienphi.com###fan-exit
