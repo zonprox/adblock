@@ -20,5 +20,8 @@
 ###bar_top_r
 ###float_content_right
 ###hide_float_right
+##.har_ad
+##.side_AD
+##.top_banneAd
 facebook.com###u_0_1z
 facebook.com##._5hn6
