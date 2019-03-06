@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 1.0.0.6
+! Version: 1.0.0.5
 ! Title: ABPVN Advanced
 ! Last modified: 03/03/2019
 ! Expires: 7 days (update frequency)
@@ -16,8 +16,6 @@
 ##.smoke-base.smoke-visible.smoke-alert
 ##.adsbygoogle
 ###div-advert
-###bar_container_r
-###bar_top_r
 ###float_content_right
 ###hide_float_right
 ##.har_ad
