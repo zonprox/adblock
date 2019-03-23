@@ -21,5 +21,7 @@
 ##.har_ad
 ##.side_AD
 ##.top_banneAd
-facebook.com###u_0_1z
+###bar_container_r
+###bar_top_r
+###u_0_1z
 facebook.com##._5hn6
