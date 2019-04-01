@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 1.0.0.8
+! Version: 1.0.0.7
 ! Title: ABPVN Advanced
 ! Last modified: 01/04/2019
 ! Expires: 7 days (update frequency)
