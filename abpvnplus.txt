@@ -27,3 +27,7 @@
 ##.quangcaopc
 ##.page_body_adaccess_all_banners
 facebook.com##._5hn6
+myhyips.net##.col-md-12
+myhyips.net##.col-md-6
+myhyips.net##.bannertop468
+myhyips.net##.panel-body.supporthome1
