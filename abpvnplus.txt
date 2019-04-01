@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 1.0.0.7
+! Version: 1.0.0.8
 ! Title: ABPVN Advanced
-! Last modified: 31/03/2019
+! Last modified: 01/04/2019
 ! Expires: 7 days (update frequency)
 ! Homepage: https://www.haopro.tk/
 !
