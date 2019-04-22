@@ -1,10 +1,14 @@
 [Adblock Plus 2.0]
-! Version: 1.0.0.8
+! Version: 1.0.0.9
 ! Title: ABPVN Advanced
-! Last modified: 04/04/2019
+! Last modified: 22/04/2019
 ! Expires: 7 days (update frequency)
 ! Homepage: https://www.haopro.tk/
 !
+##.toptot
+##.top_baer
+##.ubm_banner
+##.center_banners
 ###fanbox
 ###fan-exit
 ###fanback
@@ -27,4 +31,8 @@
 ##.quangcaopc
 ##.page_body_adaccess_all_banners
 ###page_body_advertiseplace
+##.ads-120.center-margin
 facebook.com##._5hn6
+hyiptank.net###header
+allhyipmonitors.com##div[style="float: right; width: 130px;"]
+allhyipmonitors.com##div[style="float: left; width: 130px;"]
