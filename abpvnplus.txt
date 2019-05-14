@@ -37,6 +37,8 @@
 ##.banner.rotating
 ##.headbanner
 ##.ad.clearfix
+###cheadbanner
+###ctopbanner
 facebook.com##._5hn6
 hyiptank.net###header
 allhyipmonitors.com##div[style="float: right; width: 130px;"]
