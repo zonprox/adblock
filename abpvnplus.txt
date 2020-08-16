@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 1.0.1.5
+! Version: 1.0.1.6
 ! Title: ABPVN Advanced
-! Last modified: 09/08/2020
+! Last modified: 016/08/2020
 ! Expires: 7 days (update frequency)
 ! Homepage: https://www.haopro.tk/
 !
@@ -49,24 +49,5 @@
 ##.qc88
 ##.w-100.video-thumbnail.lozad
 facebook.com##._5hn6
-hyiptank.net###header
-allhyipmonitors.com##div[style="float: right; width: 130px;"]
-allhyipmonitors.com##div[style="float: left; width: 130px;"]
-hyiplogs.com##.right-bar
-sanegain.com##div[style="text-align: center; margin-bottom: 20px"]
-sonic-monitor.com##.info
-allhyipmonitors.com###headerr
-allhyipdata.com##.top-a-image.a-image
-allhyipdata.com##.a-image
-instant-monitor.com##.slide.carousel.text-center.row
-instant-monitor.com##div.px-3.mb-2.text-center.row:nth-of-type(4)
-instant-monitor.com##div.px-3.mb-2.text-center.row:nth-of-type(3)
-instant-monitor.com##.side.col-lg-3 > div.text-center:nth-of-type(1)
-instant-monitor.com##div.text-center.row:nth-of-type(1) > div.mb-1.px-2.col-sm-12.col-12:nth-of-type(1)
-instant-monitor.com##div.mb-1.px-2.col-sm-12.col-12:nth-of-type(2)
-instant-monitor.com##div.mb-1.px-2.col-sm-12.col-12:nth-of-type(3)
-instant-monitor.com##div.mb-1.px-2.col-sm-12.col-12:nth-of-type(4)
-instant-monitor.com##.my-2.row > .col-lg-12
-instant-monitor.com##.side.col-lg-3 > .mb-2.text-center
-instant-monitor.com##.side.col-lg-3 > .mb-3.text-center > div.banner125:nth-of-type(2)
 ciscobinary.openh264.org
+blackspigot.com##.messageText.baseHtml.ugc > p
