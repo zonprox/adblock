@@ -1,10 +1,15 @@
-[Adblock Plus 2.0]
-! Version: 1.0.1.6
+[Adblock Plus 2]
+!-----------------------------------
+!             ABOUT
+!-----------------------------------
+! Version: 1.1.0.0
 ! Title: ABPVN Advanced
-! Last modified: 016/08/2020
+! Last modified: 09/09/2020
 ! Expires: 7 days (update frequency)
 ! Homepage: https://www.haopro.tk/
-!
+!-----------------------------------
+!             ADBLOCK
+!-----------------------------------
 ##.toptot
 ##.top_baer
 ##.ubm_banner
@@ -51,3 +56,10 @@
 facebook.com##._5hn6
 ciscobinary.openh264.org
 blackspigot.com##.messageText.baseHtml.ugc > p
+!-----------------------------------
+!            FAKE SITES
+!-----------------------------------
+zcracked.com
+crackscoop.com
+fullprokey.com
+letcracks.com
