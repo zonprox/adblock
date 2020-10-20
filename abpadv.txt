@@ -10,6 +10,7 @@
 !-----------------------------------
 !             ADBLOCK
 !-----------------------------------
+###cob263512
 ##.toptot
 ##.top_baer
 ##.ubm_banner
@@ -53,6 +54,9 @@
 ##.balloon-right
 ##.qc88
 ##.w-100.video-thumbnail.lozad
+###cob263512
+##center > p > .aso-zone-52810.aso-zone.aso-aid-134523
+##div.quangcaomb > center > center
 facebook.com##._5hn6
 ciscobinary.openh264.org
 blackspigot.com##.messageText.baseHtml.ugc > p
@@ -74,13 +78,10 @@ serialkeygenpro.com
 ||sieukhung.me/wp-content/uploads/2020/10/unnamed.gif$image
 ||sieukhung.me/wp-content/uploads/2020/10/320x100-1126.gif$image
 ||sieukhung.me/wp-content/uploads/2020/10/320x100-b99-1.gif$image
-sieukhung.me###cob263512
-sieukhung.me##center > p > .aso-zone-52810.aso-zone.aso-aid-134523
-sieukhung.me##div.quangcaomb > center > center
+
 
 ! 2020-10-20 https://tuoi69.cc
 ||tuoi69.cc/wp-content/uploads/2020/10/sbobet-10.gif$image
 ||tuoi69.cc/wp-content/uploads/2020/10/320x100-1126.gif$image
 ||tuoi69.cc/wp-content/uploads/2020/10/320x100-50k.gif$image
 ||tuoi69.cc/wp-content/uploads/2020/10/vn-320x100-1.gif$image
-tuoi69.cc###cob263512
