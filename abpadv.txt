@@ -2,11 +2,11 @@
 !-----------------------------------
 !             ABOUT
 !-----------------------------------
-! Version: 1.1.0.0
+! Version: 1.1.0.1
 ! Title: ABPVN Advanced
-! Last modified: 09/09/2020
+! Last modified: 20/10/2020
 ! Expires: 7 days (update frequency)
-! Homepage: https://www.haopro.tk/
+! Homepage: https://www.haopro.net/
 !-----------------------------------
 !             ADBLOCK
 !-----------------------------------
@@ -71,16 +71,12 @@ serialkeygenpro.com
 !-----------------------------------
 !            ADULT
 !-----------------------------------
-! 2020-10-20 https://sieukhung.me
 ||sieukhung.me/wp-content/uploads/2020/10/sbobet-10.gif$image
 ||sieukhung.me/wp-content/uploads/2020/10/sbobet-10.gif$image
 ||sieukhung.me/wp-content/uploads/2020/09/320x100-b99.gif$image
 ||sieukhung.me/wp-content/uploads/2020/10/unnamed.gif$image
 ||sieukhung.me/wp-content/uploads/2020/10/320x100-1126.gif$image
 ||sieukhung.me/wp-content/uploads/2020/10/320x100-b99-1.gif$image
-
-
-! 2020-10-20 https://tuoi69.cc
 ||tuoi69.cc/wp-content/uploads/2020/10/sbobet-10.gif$image
 ||tuoi69.cc/wp-content/uploads/2020/10/320x100-1126.gif$image
 ||tuoi69.cc/wp-content/uploads/2020/10/320x100-50k.gif$image
