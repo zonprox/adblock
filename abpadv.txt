@@ -2,7 +2,7 @@
 !-----------------------------------
 !             ABOUT
 !-----------------------------------
-! Version: 1.1.0.1
+! Version: 1.1.0.2
 ! Title: ABPVN Advanced
 ! Last modified: 20/10/2020
 ! Expires: 7 days (update frequency)
